@@ -31,7 +31,7 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 Assurez-vous que les fichiers lime_implementation.py et experimentation.ipynb se trouvent dans le même répertoire.
 1-Naviguez jusqu'au répertoire du projet dans le terminal ou invite de commande :
 
-					cd HACHEMI_BENSALEM_LIME
+					cd LIME
 
 2-Lancez le Notebook Jupyter. pour importer correctement la classe SimpleLIME :
 
